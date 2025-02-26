@@ -1,0 +1,13 @@
+# Ignore .log files
+*.log
+
+#Ignore dot files
+.env
+.DS_Store
+
+#Ignore Firebase Secret files
+
+
+#Ignore Test files
+MitraTests
+MitraUITests
